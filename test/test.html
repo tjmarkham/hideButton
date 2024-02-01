@@ -1,0 +1,21 @@
+<html>
+<!--
+  to test the extsion:
+  - add "file:///*/hideButton/test/test.html" in manifest.json
+  - open this file in a browser to confirm the extension is working
+-->
+
+<body>
+  <h2>Test hideButton</h2>
+  <h3>Only "button 3" and "button 4" should be visible</h3>
+
+  <div>
+    <button data-qa-selector="delete_merged_branches_button">button 1</button>
+    <button data-qa-selector="delete_merged_branches_button">button 2</button>
+    <button data-qa-selector="test_button">button 3</button>
+    <button>button 4</button>
+  </div>
+
+</body>
+
+</html>
