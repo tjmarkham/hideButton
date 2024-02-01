@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Hide 'Delete Merged Branches' Button",
-  "version": "24.2.1",
+  "version": "24.2.2",
   "description": "Hide the 'Delete merged branches' button from GitLab.",
   "icons": {
     "16": "images/icon-16.png",
