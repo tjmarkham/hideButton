@@ -17,7 +17,8 @@
       "matches": [
         "https://gitlab.com/*",
         "https://cloudlab.us.oracle.com/xgbu-ace/*"
-      ]
+      ],
+      "run_at": "document_start"
     }
   ]
 }

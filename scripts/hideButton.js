@@ -10,4 +10,6 @@ function hideButton() {
   }
 }
 
-hideButton();
+document.addEventListener('DOMContentLoaded', () => {
+  hideButton();
+});
